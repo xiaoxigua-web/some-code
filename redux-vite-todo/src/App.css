@@ -5,6 +5,23 @@
   text-align: center;
 }
 
+h1{
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+.item{
+  cursor: pointer;
+}
+
+.completed{
+  text-decoration: line-through;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
